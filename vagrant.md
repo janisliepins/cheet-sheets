@@ -1,4 +1,5 @@
 ### Vagrant commands
+
 Power off VM
 
 `vagrant halt`
