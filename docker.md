@@ -27,7 +27,7 @@ See space usage
 
 `docker system df`
 
-Delete everything that is not running 
+Delete everything that is not running (all stopped containers, all volumes not used by at least one container, all networks not used by at least one container, all dangling images)
 
 `docker system prune`
 
