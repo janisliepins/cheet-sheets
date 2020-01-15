@@ -1,3 +1,18 @@
+### RANDOM
+
+Check memory and cpu 
+*Documentation for vmstat [here](https://www.geeksforgeeks.org/vmstat-command-in-linux-with-examples/)*
+
+*Documentation for lscpu [here](https://www.howtoforge.com/linux-lscpu-command/)*
+
+`vmstat -s`
+
+`lscpu`
+
+Check video memory
+
+`lspci -v -s 00:02.0`
+
 ### wget
 
 Download any file by given URL
